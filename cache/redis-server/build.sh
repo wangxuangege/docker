@@ -1,0 +1,1 @@
+docker build -t wangxuangege/cache_redis-server .

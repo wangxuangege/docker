@@ -1,0 +1,1 @@
+docker run -d --net=cache-net --name db  wangxuangege/cache_redis-server
